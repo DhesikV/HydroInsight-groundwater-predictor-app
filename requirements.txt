@@ -1,0 +1,8 @@
+streamlit
+pandas
+scikit-learn
+joblib
+geopandas
+folium
+streamlit-folium
+xlsxwriter
